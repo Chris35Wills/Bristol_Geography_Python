@@ -3,7 +3,6 @@
    osgeo.osr packages
    @Chris Williams 22/09/15"""
 
-import mpl_toolkits.basemap.pyproj as pyproj
 import matplotlib.pyplot as plt
 import pandas as pd
 

@@ -14,26 +14,22 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 **Location**: SR1, Geography Buliding
 
-**Times**: 12 noon - 1 pm
+**Times**: 12 noon - 1 pm (dates below marked with a "*" will be held at 2 pm - 3 pm)
 
 ## Schedule
 
-- [x] 21/01/2016	[Testing your code using Travis](https://github.com/Chris35Wills/Bristol_Geography_Python/blob/master/testing/TESTING_READ_ME.md)	Chris Williams
+- [x] 21/01/2016		[Testing your code using Travis](https://github.com/Chris35Wills/Bristol_Geography_Python/blob/master/testing/TESTING_READ_ME.md)	Chris Williams
 
-- [ ] 04/02/2016	TBC
+- [ ] 04/02/2016		TBC
 
-- [ ] 18/02/2016	TBC
+- [ ] 18/02/2016		TBC
 
-- [ ] 03/03/2016	TBC
+- [ ] 03/03/2016		TBC
 
-- [ ] 17/03/2016*	TBC
+- [ ] 17/03/2016*		TBC
 
-- [ ] 31/03/2016	TBC
+- [ ] 31/03/2016		TBC
 
-- [ ] 14/04/2016* 	TBC
-
-- [ ] 28/04/2016*	TBC
-
-
-
-
+- [ ] 14/04/2016* 		TBC
+	
+- [ ] 28/04/2016*		TBC

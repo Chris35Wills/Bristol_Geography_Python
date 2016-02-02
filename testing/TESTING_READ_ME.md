@@ -45,19 +45,19 @@ Assuming you have github, adding your code each day, you can sync this with Trav
 
 2. You need another file in your repo to instruct travis what to do each time you commit something - call this ".travis.yml" - here you'll tell travis what language and version you want it to deal with for a given repo that it is watching e.g.
 
-	.travis.yml
+		.travis.yml
 
-	language: python
-	python:
-	    - "2.7"
-	    - "nightly"
-	install:
-	    - "pip install -r requirements.txt"
-	script: nosetests
+		language: python
+		python:
+		    - "2.7"
+		    - "nightly"
+		install:
+		    - "pip install -r requirements.txt"
+		script: nosetests
 
 3. Another file is also required to tell travis what needs to be installed to run your tests e.g.
 
-	requirements.txt
+		requirements.txt
 
 	    nose
 	    numpy

@@ -20,9 +20,9 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 - [x] 21/01/2016		[Testing your code using Travis](https://github.com/Chris35Wills/Bristol_Geography_Python/blob/master/testing/TESTING_READ_ME.md)	[Chris Williams](http://www.bristol.ac.uk/geography/people/chris-n-williams/index.html)
 
-- [ ] 04/02/2016		Points to sparse grids and resultant analysis	[Mike Cooper](http://www.bristol.ac.uk/geography/people/michael-a-cooper/index.html)
+- [x] 04/02/2016		Points to sparse grids and resultant analysis	[Mike Cooper](http://www.bristol.ac.uk/geography/people/michael-a-cooper/index.html)
 
-- [ ] 18/02/2016		Interfacing SQL and Python	[Steve Chuter](http://www.bristol.ac.uk/geography/people/stephen-j-chuter/index.html)
+- [x] 18/02/2016		Interfacing SQL and Python	[Steve Chuter](http://www.bristol.ac.uk/geography/people/stephen-j-chuter/index.html)
 
 - [ ] 03/03/2016		A class for raster processing 	[Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html)
 

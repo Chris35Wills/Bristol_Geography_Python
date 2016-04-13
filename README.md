@@ -14,7 +14,7 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 **Location**: SR1, Geography Buliding
 
-**Times**: 12 noon - 1 pm (dates below marked with a "*" will be held at 2 pm - 3 pm in SR2)
+**Times**: 12 noon - 1 pm (dates below marked with a "*" will be held at **2 pm - 3 pm in SR2**)
 
 ## Schedule
 
@@ -30,6 +30,6 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 - [x] 31/03/2016		NO MEETING (EASTER)
 
-- [ ] 14/04/2016* 		TBC
+- [ ] 21/04/2016* 		TBC
 	
 - [ ] 28/04/2016*		TBC

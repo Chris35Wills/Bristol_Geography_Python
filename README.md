@@ -36,7 +36,7 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 # Meetings May - July 2016
 
-**Location**: See dates below
+**Location**: Main Geography Building - for the room, see specific dates below
 
 **Times**: 12 noon - 1 pm
 

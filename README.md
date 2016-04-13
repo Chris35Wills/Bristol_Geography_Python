@@ -33,3 +33,25 @@ If you'd like to get involved or present something, please email me: chris.willi
 - [ ] 21/04/2016* 		TBC
 	
 - [ ] 28/04/2016*		TBC
+
+# Meetings May - July 2016
+
+**Location**: See dates below
+
+**Times**: 12 noon - 1 pm
+
+## Schedule
+
+- [ ] 12/05/16 **SR2** TBC
+
+- [ ] 26/05/16 **SR2** TBC
+
+- [ ] 09/06/16 **SR2** TBC
+
+- [ ] 23/06/16 **SR1** TBC
+
+- [ ] 07/07/16 **SR1** TBC
+
+- [ ] 21/07/16 **SR1** TBC
+
+

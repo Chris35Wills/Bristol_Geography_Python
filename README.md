@@ -30,7 +30,7 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 - [x] 31/03/2016		NO MEETING (EASTER)
 
-- [ ] 21/04/2016* 		TBC
+- [ ] 21/04/2016* 		Opportunity to discuss general code problems - no presentation planned
 	
 - [ ] 28/04/2016*		TBC
 

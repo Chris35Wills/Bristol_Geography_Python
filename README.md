@@ -32,7 +32,7 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 - [x] 21/04/2016* 		Opportunity to discuss general code problems - no presentation planned
 	
-- [ ] 28/04/2016*		TBC
+- [x] 28/04/2016*		Creating synthetic channel DEMs in the absence of data [Chris Williams](http://www.bristol.ac.uk/geography/people/chris-n-williams/index.html)
 
 # Meetings May - July 2016
 

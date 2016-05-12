@@ -42,7 +42,7 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 ## Schedule
 
-- [ ] 12/05/16 **SR2** The [xarray package](https://pypi.python.org/pypi/xarray): fast access of netCDF files [Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html)
+- [ ] 19/05/16 **SR2** The [xarray package](https://pypi.python.org/pypi/xarray): fast access of netCDF files [Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html)
 
 - [ ] 26/05/16 **SR2** TBC
 

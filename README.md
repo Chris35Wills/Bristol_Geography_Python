@@ -42,11 +42,11 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 ## Schedule
 
-- [x] 19/05/16 **SR2** The [xarray package](https://pypi.python.org/pypi/xarray): fast access of netCDF files [Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html)
+- [x] 19/05/16 **SR2** The [xarray package](https://pypi.python.org/pypi/xarray): fast access of netCDF files [Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html) - [materials here](https://github.com/Chris35Wills/Bristol_Geography_Python/tree/master/xarray)
 
 - [x] 26/05/16 **SR2** 1D and 2D Fourier Transform data analysis with Python - program overview [Chris Williams](http://www.bristol.ac.uk/geography/people/chris-n-williams/index.html)
 
-- [ ] 09/06/16 **SR2** TBC
+- [x] 09/06/16 **SR2** R for geospatial data analysis - [Chris Williams](http://www.bristol.ac.uk/geography/people/chris-n-williams/index.html) - [materials here](https://github.com/Chris35Wills/Bristol_Geography_Python/tree/master/R_for_geospatial)
 
 - [ ] 23/06/16 **SR1** TBC
 

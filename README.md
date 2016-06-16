@@ -1,5 +1,7 @@
 # Bristol_Geography_Python
 
+:zap: June 2016 update: watch this space  - the Python group is growing and is set to expand outside of geography :zap:
+
 Welcome to the Bristol Geography Python User Group!
 
 We meet every other week in the Bristol University Geography Department and offer an opportunity to share knowledge of the various packages we use, approaches to programmatic problems we take as well as a platform to ask questions about existing code and ideas to improve and advance our individual applications of the Python programming language.
@@ -48,10 +50,10 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 - [x] 09/06/16 **SR2** R for geospatial data analysis - [Chris Williams](http://www.bristol.ac.uk/geography/people/chris-n-williams/index.html) - [materials here](https://github.com/Chris35Wills/Bristol_Geography_Python/tree/master/R_for_geospatial)
 
-- [ ] 23/06/16 **SR1** TBC
+- [ ] 23/06/16 **SR1** NO MEETING
 
-- [ ] 07/07/16 **SR1** TBC
+- [ ] 07/07/16 **SR1** TBC - email me if you would like to present
 
-- [ ] 21/07/16 **SR1** TBC
+- [ ] 21/07/16 **SR1** TBC - email me if you would like to present
 
 

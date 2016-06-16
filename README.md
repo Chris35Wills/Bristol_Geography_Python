@@ -1,6 +1,6 @@
 # Bristol_Geography_Python
 
-:zap: June 2016 update: watch this space  - the Python group is growing and is set to expand outside of geography :zap:
+:zap: **June 2016 update: watch this space  - the Python group is growing and is set to expand outside of geography** :zap:
 
 Welcome to the Bristol Geography Python User Group!
 

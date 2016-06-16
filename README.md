@@ -26,7 +26,7 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 - [x] 18/02/2016		Interfacing SQL and Python	[Steve Chuter](http://www.bristol.ac.uk/geography/people/stephen-j-chuter/index.html)
 
-- [x] 03/03/2016		A class for raster processing 	[Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html)
+- [x] 03/03/2016		[Georaster](https://github.com/atedstone/georaster) - A class for raster processing 	[Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html)
 
 - [x] 17/03/2016*		Sparse matrices in R [Isabel Nias](http://www.bristol.ac.uk/geography/people/isabel-j-nias/)
 

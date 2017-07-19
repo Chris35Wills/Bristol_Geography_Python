@@ -1,4 +1,6 @@
-# Bristol_Geography_Python
+# Bristol Geography Python User Group
+
+:zap: **June 2016 update: watch this space  - the Python group is growing and is set to expand outside of geography** :zap:
 
 Welcome to the Bristol Geography Python User Group!
 
@@ -14,7 +16,7 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 **Location**: SR1, Geography Buliding
 
-**Times**: 12 noon - 1 pm (dates below marked with a "*" will be held at **2 pm - 3 pm in SR2**)
+**Times**: 12 noon - 1 pm (dates below marked with a "\*" will be held at 2 pm - 3 pm in SR2)
 
 ## Schedule
 
@@ -24,7 +26,7 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 - [x] 18/02/2016		Interfacing SQL and Python	[Steve Chuter](http://www.bristol.ac.uk/geography/people/stephen-j-chuter/index.html)
 
-- [x] 03/03/2016		A class for raster processing 	[Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html)
+- [x] 03/03/2016		[Georaster](https://github.com/atedstone/georaster) - A class for raster processing 	[Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html)
 
 - [x] 17/03/2016*		Sparse matrices in R [Isabel Nias](http://www.bristol.ac.uk/geography/people/isabel-j-nias/)
 
@@ -42,16 +44,16 @@ If you'd like to get involved or present something, please email me: chris.willi
 
 ## Schedule
 
-- [x] 19/05/16 **SR2** The [xarray package](https://pypi.python.org/pypi/xarray): fast access of netCDF files [Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html)
+- [x] 19/05/16 **SR2** The [xarray package](https://pypi.python.org/pypi/xarray): fast access of netCDF files [Andrew Tedstone](http://www.bristol.ac.uk/geography/people/andrew-j-tedstone/index.html) - [materials here](https://github.com/Chris35Wills/Bristol_Geography_Python/tree/master/xarray)
 
 - [x] 26/05/16 **SR2** 1D and 2D Fourier Transform data analysis with Python - program overview [Chris Williams](http://www.bristol.ac.uk/geography/people/chris-n-williams/index.html)
 
-- [ ] 09/06/16 **SR2** TBC
+- [x] 09/06/16 **SR2** R for geospatial data analysis - [Chris Williams](http://www.bristol.ac.uk/geography/people/chris-n-williams/index.html) - [materials here](https://github.com/Chris35Wills/Bristol_Geography_Python/tree/master/R_for_geospatial)
 
-- [ ] 23/06/16 **SR1** TBC
+- [ ] 23/06/16 **SR1** NO MEETING
 
-- [ ] 07/07/16 **SR1** TBC
+- [ ] 07/07/16 **SR1** TBC - email me if you would like to present
 
-- [ ] 21/07/16 **SR1** TBC
+- [ ] 21/07/16 **SR1** TBC - email me if you would like to present
 
 
